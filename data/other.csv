@@ -1,10 +1,12 @@
 name,source,gender,wikidata,type
 Aak,wikidata,,Q300815,way
+Aardbeihof,wikidata,,Q14458220,way
 Adelaarsweg,wikidata,,Q2092297,way
 Afrikaweg,wikidata,,Q15,way
 Afzeliahout,wikidata,,Q27684975,way
 Agaatstoep,wikidata,,Q123314,way
 Ahornhout,wikidata,,Q402516,way
+Alkmesschen,wikidata,,Q27102,way
 Amarilstoep,wikidata,,Q1136648,way
 Amerikaweg,wikidata,,Q828,way
 Amstelstraat,wikidata,,Q185405,way
@@ -17,8 +19,10 @@ Asserwijk,wikidata,,Q34698609,way
 Athenestraat,wikidata,,Q1524,way
 Australiëweg,wikidata,,Q3960,way
 Aziëweg,wikidata,,Q48,way
+Baanderheugte,wikidata,,Q2053703,way
 Balkenweg,wikidata,,Q88536772,way
 Batingestraat,wikidata,,Q2323166,way
+Beekeerdhamel,wikidata,,Q5808555,way
 Begoniastraat,wikidata,,Q158617,way
 Beilerstraat,wikidata,,Q2034045,way
 Berberishage,wikidata,,Q158503,way
@@ -27,6 +31,7 @@ Bezembinderstraat,wikidata,,Q829756,way
 Biezenveld,wikidata,,Q2431024,way
 Blauwbandkade,wikidata,,Q583540,way
 Blokmakerstraat,wikidata,,Q2225643,way
+Boeimesschen,wikidata,,Q30026,way
 Boekweitveld,wikidata,,Q4536337,way
 Bosanemoon,wikidata,,Q161056,way
 Bosbes,wikidata,,Q5079636,way
@@ -54,6 +59,7 @@ Ceresplein,wikidata,,Q32102,relation+way
 Ceresstraat,wikidata,,Q32102,way
 Cypreslaan,wikidata,,Q14169641,way
 Dahliastraat,wikidata,,Q130918,way
+Dassenslag,wikidata,,Q27066,way
 "De Klenckestraat",wikidata,,Q2615740,way
 "De Vallei",wikidata,,Q2924361,way
 "De Wouden",wikidata,,Q2130210,way
@@ -70,11 +76,17 @@ Donstraat,wikidata,,Q1229,way
 Dotterbloemstraat,wikidata,,Q147192,way
 Duitslandlaan,wikidata,,Q183,way
 Ebbenhout,wikidata,,Q156005,way
+Eekhoornslag,wikidata,,Q4388,way
 Eemland,wikidata,,Q2128439,way
+Eendmesschen,wikidata,,Q3736439,way
+Egelslag,wikidata,,Q6145,way
 Eiberstraat,wikidata,,Q25352,way
 Elbestraat,wikidata,,Q1644,way
 Elstar,wikidata,,Q486412,way
 Engelandlaan,wikidata,,Q21,way
+Enkeerdbrug,wikidata,,Q5583668,way
+Enkeerdhamel,wikidata,,Q5583668,way
+Enkeerdpad,wikidata,,Q5583668,way
 Entingestraat,wikidata,,Q1935189,way
 Ereprijsstraat,wikidata,,Q7216874,way
 Esdoornhout,wikidata,,Q402516,way
@@ -88,25 +100,33 @@ Fivelingostraat,wikidata,,Q1421904,way
 Flamingolaan,wikidata,,Q3901583,way
 Frankrijklaan,wikidata,,Q142,way
 Frankrijkrotonde,wikidata,,Q142,way
+Frees,wikidata,,Q4860014,way
+Fuutmesschen,wikidata,,Q25422,way
 Gaasterland,wikidata,,Q2459155,way
+Gansmesschen,wikidata,,Q82562,way
 Geminisingel,wikidata,,Q8923,way
 Gentiaanstraat,wikidata,,Q144682,way
 Geraniumstraat,wikidata,,Q157211,way
+Gersthullen,wikidata,,Q11577,way
 Geulstraat,wikidata,,Q1520184,way
 Gloster,wikidata,,Q353082,way
 Gooiland,wikidata,,Q426421,way
 Goudreinet,wikidata,,Q504565,way
 Graafschap,wikidata,,Q1541869,way
+Grasbeemd,wikidata,,Q643352,way
 Griekenlandlaan,wikidata,,Q41,way
 Groningerstraat,wikidata,,Q749,way
 Gymnasiumstraat,wikidata,,Q2066691,way
 Haarweg,wikidata,,Q2451504,way
 Hakselaar,wikidata,,Q1900188,way
+Harkpad,wikidata,,Q200822,way
 Havenkade,wikidata,,Q97011717,way
+Haverhullen,wikidata,,Q12104,way
 Havikstraat,wikidata,,Q25353,way
 Hazelaarhof,wikidata,,Q124969,way
 Heideveld,wikidata,,Q27590,way
 Helmkruidstraat,wikidata,,Q53470,way
+Hermelijnslag,wikidata,,Q25345,way
 Hertshooistraat,wikidata,,Q156935,way
 "Het Bildt",wikidata,,Q850722,way
 "Het Kanaal",wikidata,,Q1996464,way
@@ -114,8 +134,11 @@ Hertshooistraat,wikidata,,Q156935,way
 "Het Sticht",wikidata,,Q707767,way
 "Hof van Berlijn",wikidata,,Q64,way
 "Hof van Parijs",wikidata,,Q90,way
+Hommelkleuven,wikidata,,Q25407,way
 Hoofdvaartsweg,wikidata,,Q19255510;Q661659,way
+Hooibeemd,wikidata,,Q336989,way
 Hooiland,wikidata,,Q2597692,way
+Hophullen,wikidata,,Q3214940,way
 Hortensiastraat,wikidata,,Q155997,way
 Hulsthage,wikidata,,Q192190,way
 Hunebedstraat,wikidata,,Q101659,way
@@ -139,21 +162,27 @@ Kerkstraat,wikidata,,Q1869717,way
 Kersenhof,wikidata,,Q196,way
 Kerspellaan,wikidata,,Q13358519,way
 Ketellapperstraat,wikidata,,Q338221,way
+Keverkleuven,wikidata,,Q22671,way
+Kipper,wikidata,,Q1742361,way
 Klaproosstraat,wikidata,,Q146391,way
 Klaverstraat,wikidata,,Q101538,way
 Klaverveld,wikidata,,Q101538,way
+Kleihamel,wikidata,,Q42302,way
 Koekoekstraat,wikidata,,Q18845,way
 Koperslagerstraat,wikidata,,Q1551626,way
 Koraalstoep,wikidata,,Q29386288,way
 Kornalijnstoep,wikidata,,Q324369,way
+Krekelkleuven,wikidata,,Q47328,way
 Laarwoudstraat,wikidata,,Q1809424,way
 Landschapstraat,wikidata,,Q107425,way
 Laurierpark,wikidata,,Q26006,way
 Laurierstraat,wikidata,,Q26006,way
 Lauwers,wikidata,,Q505650,way
+Leemhamel,wikidata,,Q1131303,way
 Leemveld,wikidata,,Q1131303,way
 Lekstraat,wikidata,,Q1143852,way
 Leliestraat,wikidata,,Q5194627,way
+Libelkleuven,wikidata,,Q80066,way
 Libra,wikidata,,Q10580,way
 Ligusterhage,wikidata,,Q753099,way
 Lindelaan,wikidata,,Q127849,way
@@ -167,11 +196,15 @@ Madeliefstraat,wikidata,,Q26158,way
 Madridstraat,wikidata,,Q2807,way
 Mainstraat,wikidata,,Q1670,way
 "Maria in Campislaan",wikidata,,Q28037766,way
+Markedreef,wikidata,,Q883588,way
 Markepad,wikidata,,Q883588,way
 Marnepad,wikidata,,Q41983,way
 Marsdijk,wikidata,,Q2247116,way
 Marsstraat,wikidata,,Q111,way
+Marterslag,wikidata,,Q26533,way
+Meerkoetmesschen,wikidata,,Q25376,way
 Meerval,wikidata,,Q6577802,way
+Meeuwmesschen,wikidata,,Q27589,way
 Meidoornlaan,wikidata,,Q132557,way
 Mensingestraat,wikidata,,Q2976863,way
 Mercuriusplein,wikidata,,Q1150,relation+way
@@ -180,6 +213,7 @@ Mezenlaan,wikidata,,Q168473,way
 Minervalaan,wikidata,,Q126916,way
 Moezelstraat,wikidata,,Q1667,way
 Molenstraat,wikidata,,Q88361844,way
+Naoberdreef,wikidata,,Q2391319,way
 Narcisstraat,wikidata,,Q29465,way
 Neckarstraat,wikidata,,Q1673,way
 Neptunuspassage,wikidata,,Q3954,way
@@ -209,7 +243,9 @@ Pinksterbloemstraat,wikidata,,Q27490,way
 Pitteloseweg,wikidata,,Q19520893,way
 Planetenlaan,wikidata,,Q634,way
 Plataanweg,wikidata,,Q163025,way
+Ploeg,wikidata,,Q11464,way
 Plutostraat,wikidata,,Q339,way
+Podzolhamel,wikidata,,Q192813,way
 Portugallaan,wikidata,,Q45,way
 Pottenbakkerstraat,wikidata,,Q3400050,way
 Prunushage,wikidata,,Q190545,way
@@ -226,6 +262,7 @@ Robijnstoep,wikidata,,Q43088,way
 Rodeweg,wikidata,,Q105411175,way
 Roerdompstraat,wikidata,,Q25709,way
 Roerpad,wikidata,,Q152331,way
+Roggehullen,wikidata,,Q12099,way
 Rolderhoofdweg,wikidata,,Q2182709,way
 Rolderstraat,wikidata,,Q2182709,way
 Romestraat,wikidata,,Q220,way
@@ -245,6 +282,8 @@ Schieland,wikidata,,Q2303350,way
 Seinepad,wikidata,,Q1471,way
 Sleutelbloemstraat,wikidata,,Q158974,way
 Smaragdstoep,wikidata,,Q43513,way
+Smientmesschen,wikidata,,Q26459,way
+Snipmesschen,wikidata,,Q26626,way
 Spade,wikidata,,Q216642,way
 Spanjelaan,wikidata,,Q29,way
 Sparrenlaan,wikidata,,Q26782,way
@@ -257,9 +296,12 @@ Stationsplein,wikidata,,Q47326,relation+way
 Stationsstraat,wikidata,,Q47326,way
 Steendijk,wikidata,,Q22731,way
 Steenhouwerstraat,wikidata,,Q328325,way
+Steigermesschen,wikidata,,Q2240172,way
 Stelmakerstraat,wikidata,,Q833418,way
+Sternmesschen,wikidata,,Q875769,way
 Steurstraat,wikidata,,Q300955,way
 Tamarindehout,wikidata,,Q105687375,way
+Tarwehullen,wikidata,,Q15645384,way
 Taurus,wikidata,,Q10570,way
 Taxusplantsoen,wikidata,,Q27355,way
 Teenslaan,wikidata,,Q105410470,way
@@ -268,6 +310,7 @@ Teenslaan,wikidata,,Q105410470,way
 Tijmpark,wikidata,,Q131224,way
 Tijmstraat,wikidata,,Q131224,way
 Tjalk,wikidata,,Q1371481,way
+Transportweg,wikidata,,Q7590,way
 Triade,wikidata,,Q1106393,way
 Tuinfluiter,wikidata,,Q202478,way
 Tuinpad,wikidata,,Q1107656,way
@@ -280,6 +323,7 @@ Uranusstraat,wikidata,,Q324,way
 Valkenweg,wikidata,,Q43489,way
 "Van Vlissingenstraat",wikidata,,Q2743834,way
 Vechtstraat,wikidata,,Q168904,way
+Veenhamel,wikidata,,Q1681353,way
 Veenkampen,wikidata,,Q2130210,way
 Vennebroekstraat,wikidata,,Q2222532,way
 Venuskade,wikidata,,Q313,way
@@ -289,13 +333,16 @@ Violenstraat,wikidata,,Q146095,way
 Virgo,wikidata,,Q8842,way
 Vlasveld,wikidata,,Q47089651,way
 Vledderinge,wikidata,,Q2151252,way
+Vlinderkleuven,wikidata,,Q28319,way
 Vogelkerslaan,wikidata,,Q165424,way
+Vossenslag,wikidata,,Q8331,way
 Vredeveldseweg,wikidata,,Q2521818,way
 Vredeveldtunnel,wikidata,,Q2521818,way
 WZApad,wikidata,,Q2549393,way
 Wagen,wikidata,,Q859281,way
 Wagenmakerstraat,wikidata,,Q833418,way
 Waterhoen,wikidata,,Q18847,way
+Weidebeemd,wikidata,,Q30121,way
 Weiersstraat,wikidata,,Q92397102,way
 Weserstraat,wikidata,,Q1650,way
 Westergoo,wikidata,,Q2613828,way
@@ -303,19 +350,23 @@ Westerwoldestraat,wikidata,,Q1758227,way
 Westrupstraat,wikidata,,Q2573612,way
 Weteringstraat,wikidata,,Q708457,way
 Weverstraat,wikidata,,Q437512,way
+Wilgenbeemd,wikidata,,Q36050,way
 Wiltonstraat,wikidata,,Q2583543,way
 Winde,wikidata,,Q144497,way
 Witterhoofdweg,wikidata,,Q2586736,way
 Witterstraat,wikidata,,Q2586736,way
 Wolgastraat,wikidata,,Q626,way
 Wouwstraat,wikidata,,Q208342,way
+Wulpmesschen,wikidata,,Q18854,way
 Zaanstraat,wikidata,,Q136660,way
 Zadelmakerstraat,wikidata,,Q1760988,way
 Zalmstraat,wikidata,,Q184238,way
+Zandhamel,wikidata,,Q34679,way
 Zeeltstraat,wikidata,,Q76280,way
 Zeijerveen,wikidata,,Q2628418,way
 Zeijerweg,wikidata,,Q2415408,way
 Zeilmakerstraat,wikidata,,Q549237,way
+Zeis,wikidata,,Q130912,way
 Zevensterstraat,wikidata,,Q50346430,way
 Zilverschoonstraat,wikidata,,Q157815,way
 Zonnedauwstraat,wikidata,,Q266,way
@@ -328,13 +379,11 @@ Zwedenlaan,wikidata,,Q34,way
 "'t Stede",,,,way
 "11 decemberlaantje",,,,way
 Aar,,,,way
-Aardbeihof,,,,way
 Abeelhout,,,,way
 Abrikoospad,,,,way
 Achterpad,,,,way
 Achterstebree,,,,way
 Akkerland,,,,way
-Alkmesschen,,,,way
 Alteveerstraat,,,,way
 Amandelpad,,,,way
 Amelte,,,,way
@@ -342,13 +391,11 @@ Amelterhout,,,,way
 Anreep,,,,way
 Appelhof,,,,way
 Aubussonpad,,,,way
-Baanderheugte,,,,way
 Baggelhuizen,,,,way
 Balkendwarsweg,,,,way
 Balkengracht,,,,way
 Balsahout,,,,way
 Beek,,,,way
-Beekeerdhamel,,,,way
 Beemdpad,,,,way
 Bellevue,,,,way
 Berkenstraat,,,,way
@@ -359,7 +406,6 @@ Binnenstoep,,,,way
 Bitse,,,,way
 Blikbree,,,,way
 Boeier,,,,way
-Boeimesschen,,,,way
 Boeremientpad,,,,way
 Boergoorn,,,,way
 Boerhoorndreef,,,,way
@@ -381,7 +427,6 @@ Buitenbree,,,,way
 Buitenes,,,,way
 Cantharel,,,,way
 Citadel,,,,way
-Dassenslag,,,,way
 "De Boomgaard",,,,way
 "De Broeken",,,,way
 "De Doorsteek",,,,way
@@ -410,21 +455,15 @@ Dunningestraat,,,,way
 Dusselheugte,,,,way
 Dwarsbree,,,,way
 Echtenstraat,,,,way
-Eekhoornslag,,,,way
 Eekmolen,,,,way
 Eem,,,,way
 Eenboomslaan,,,,way
-Eendmesschen,,,,way
-Egelslag,,,,way
 Eggepad,,,,way
 Ekkelwal,,,,way
 Elandlaan,,,,way
 Eleveld,,,,way
 Elfenbank,,,,way
 Ellen,,,,way
-Enkeerdbrug,,,,way
-Enkeerdhamel,,,,way
-Enkeerdpad,,,,way
 Epe,,,,way
 Esakkerweg,,,,way
 Esstraat,,,,way
@@ -433,22 +472,17 @@ Fokkenslaantje,,,,way
 Forum,,,,way
 Frambozenhof,,,,way
 Franjehoed,,,,way
-Frees,,,,way
-Fuutmesschen,,,,way
 Gaffel,,,,way
-Gansmesschen,,,,way
 Gasfabriekstraat,,,,way
 Gazellenlaan,,,,way
 "Gedempte Singel",,,,way
 Geelbroekerweg,,,,way
 Geerlanden,,,,way
-Gersthullen,,,,way
 Gildestraat,,,,way
 Goorlaan,,,,way
 Gouwe,,,,way
 Graanland,,,,way
 Graanlandpad,,,,way
-Grasbeemd,,,,way
 Graswijk,,,,way
 Gravenlanden,,,,way
 Grift,,,,way
@@ -459,14 +493,11 @@ Groningerdwarsstraat,,,,way
 "Grote Hout",,,,way
 Haarlaan,,,,way
 Hamerslanden,,,,way
-Harkpad,,,,way
 Havenkanaalpad,,,,way
-Haverhullen,,,,way
 Hazenoor,,,,way
 Hazenpad,,,,way
 Heklanden,,,,way
 Herepad,,,,way
-Hermelijnslag,,,,way
 Hertenkamp,,,,way
 Hertenlaan,,,,way
 "Het Grote Veld",,,,way
@@ -478,12 +509,9 @@ Hindenlaan,,,,way
 Hoekbree,,,,way
 Hofstukken,,,,way
 Holthe,,,,way
-Hommelkleuven,,,,way
 Hoofdlaan,,,,way
 Hoofdweg,,,,way
 Hoogbree,,,,way
-Hooibeemd,,,,way
-Hophullen,,,,way
 Houtlaan,,,,way
 Huisingehof,,,,way
 Huningahof,,,,way
@@ -499,13 +527,10 @@ Kazernelaan,,,,way
 Keerweer,,,,way
 Kerkhofslaan,,,,way
 Kerkpad,,,,way
-Keverkleuven,,,,way
 Kiellanden,,,,way
 Kiepheugte,,,,way
 Kilver,,,,way
 Kilverpad,,,,way
-Kipper,,,,way
-Kleihamel,,,,way
 "Kleine Espad",,,,way
 "Kleine Hout",,,,way
 "Kleine Marktstraat",,,,way
@@ -534,7 +559,6 @@ Kortbossen,,,,way
 Kortbossenpad,,,,way
 Kortbree,,,,way
 "Korte Hout",,,,way
-Krekelkleuven,,,,way
 Kristalstoep,,,,way
 Kroonwerk,,,,way
 Kruidenpad,,,,way
@@ -548,25 +572,19 @@ Langbree,,,,way
 Langedijk,,,,way
 Lantingehof,,,,way
 Larikspad,,,,way
-Leemhamel,,,,way
 Leergang,,,,way
 Leie,,,,way
-Libelkleuven,,,,way
 Lonerrotonde,,,,way
 Lottingstraat,,,,way
 Maaier,,,,way
 Mandemaat,,,,way
 Manningahof,,,,way
-Markedreef,,,,way
 Markt,,,,way
 Marktstraat,,,,way
-Marterslag,,,,way
 Mastmakerpad,,,,way
 Mastmakerstraat,,,,way
 Matenpad,,,,way
 Meentgoorn,,,,way
-Meerkoetmesschen,,,,way
-Meeuwmesschen,,,,way
 Menning,,,,way
 Messchenpad,,,,way
 Middenbree,,,,way
@@ -580,7 +598,6 @@ Mosklok,,,,way
 Muddegoorn,,,,way
 Mulderstraat,,,,way
 "NAM pad",,,,way
-Naoberdreef,,,,way
 "Nieuwe Huizen",,,,way
 Nijlandstraat,,,,way
 Nijstukken,,,,way
@@ -619,9 +636,7 @@ Peelerpark,,,,way
 Peeloërespad,,,,way
 Perzikstraat,,,,way
 Planetenpad,,,,way
-Ploeg,,,,way
 Ploegpad,,,,way
-Podzolhamel,,,,way
 Polweg,,,,way
 Populierstraat,,,,way
 "Port Natalweg",,,,way
@@ -637,7 +652,6 @@ Riklanden,,,,way
 Rochtplein,,,,way
 "Rode Heklaan",,,,way
 Roegoorn,,,,way
-Roggehullen,,,,way
 Roldertorenlaan,,,,way
 Rondgang,,,,way
 Rooipad,,,,way
@@ -659,10 +673,8 @@ Slagenpad,,,,way
 Slinge,,,,way
 Sluisstraat,,,,way
 Smalgoorn,,,,way
-Smientmesschen,,,,way
 Smilderrotonde,,,,way
 Snikke,,,,way
-Snipmesschen,,,,way
 Spiekerlanden,,,,way
 Spintgoorn,,,,way
 Sportlaan,,,,way
@@ -677,9 +689,7 @@ Stedewaarts,,,,way
 Stedewater,,,,way
 Steegeveensepad,,,,way
 Steeginghof,,,,way
-Steigermesschen,,,,way
 Stelling,,,,way
-Sternmesschen,,,,way
 Stobakkerpad,,,,way
 Stoepveldsingel,,,,way
 Strengenpad,,,,way
@@ -689,7 +699,6 @@ TT-tunnelweg,,,,way
 Taarlosebrug,,,,way
 Taarloseweg,,,,way
 Tankgracht,,,,way
-Tarwehullen,,,,way
 Telglanden,,,,way
 Terreplein,,,,relation+way
 Tesingehof,,,,way
@@ -700,7 +709,6 @@ Torenespad,,,,way
 Torenlaan,,,,way
 Torenrotonde,,,,way
 Touwslagerslaan,,,,way
-Transportweg,,,,way
 Traverse,,,,way
 Truffel,,,,way
 Tussenbree,,,,way
@@ -719,7 +727,6 @@ Veemarktplein,,,,way
 Veemarktstraat,,,,way
 Veemarktzicht,,,,way
 Veenbiezenpad,,,,way
-Veenhamel,,,,way
 Veenwalweg,,,,way
 Velduil,,,,way
 Venestraat,,,,way
@@ -732,18 +739,15 @@ Vleerpad,,,,way
 Vleerwal,,,,way
 Vleugellaan,,,,way
 Vliegenierspad,,,,way
-Vlinderkleuven,,,,way
 Vlintdreef,,,,way
 Volmachtendreef,,,,way
 Voorstebree,,,,way
 Vossenlaan,,,,way
-Vossenslag,,,,way
 Vreebergen,,,,way
 Vreelanden,,,,way
 Walakker,,,,way
 Wals,,,,way
 Wasplaat,,,,way
-Weidebeemd,,,,way
 Weidesleep,,,,way
 Weiersloop,,,,way
 Weierspoort,,,,way
@@ -754,7 +758,6 @@ Westerlaan,,,,way
 Westerwal,,,,way
 Wiemelheugte,,,,way
 Wijkbaan,,,,way
-Wilgenbeemd,,,,way
 Winkelakker,,,,way
 "Winkelcentrum Marsdijk",,,,way
 Witterbroek,,,,way
@@ -765,11 +768,8 @@ Witterzomer,,,,way
 Woerdes,,,,way
 Wolvenlaan,,,,way
 Wolvenveen,,,,way
-Wulpmesschen,,,,way
 Zaagmolen,,,,way
 Zaailand,,,,way
-Zandhamel,,,,way
-Zeis,,,,way
 Zendmastweg,,,,way
 Zichtheugte,,,,way
 Zompdijk,,,,way
