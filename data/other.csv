@@ -55,7 +55,7 @@ Buizerdstraat,wikidata,,Q25385,way
 Buxushage,wikidata,,Q158703,way
 Cederlaan,wikidata,,Q128550,way
 Cereshof,wikidata,,Q32102,way
-Ceresplein,wikidata,,Q32102,relation+way
+Ceresplein,wikidata,,Q32102,way
 Ceresstraat,wikidata,,Q32102,way
 Cypreslaan,wikidata,,Q14169641,way
 Dahliastraat,wikidata,,Q130918,way
@@ -207,7 +207,7 @@ Meerval,wikidata,,Q6577802,way
 Meeuwmesschen,wikidata,,Q27589,way
 Meidoornlaan,wikidata,,Q132557,way
 Mensingestraat,wikidata,,Q2976863,way
-Mercuriusplein,wikidata,,Q1150,relation+way
+Mercuriusplein,wikidata,,Q1150,way
 Merwedestraat,wikidata,,Q282530,way
 Mezenlaan,wikidata,,Q168473,way
 Minervalaan,wikidata,,Q126916,way
@@ -230,6 +230,7 @@ Oosterpark,wikidata,,Q105410772,way
 Oostersingel,wikidata,,Q1996464,way
 Opaalstoep,wikidata,,Q171058,way
 Oranjebond,wikidata,,Q2271194,way
+Oud-Spoorpad,wikidata,,Q2203076,way
 "Oude Trambaan",wikidata,,Q2471166,way
 Overcingellaan,wikidata,,Q18767552,way
 Parelstoep,wikidata,,Q43436,way
@@ -292,7 +293,7 @@ Sperwerstraat,wikidata,,Q25380,way
 Spieringstraat,wikidata,,Q840795,way
 Spoorstraat,wikidata,,Q546683,way
 Stadhouderslaan,wikidata,,Q325380,way
-Stationsplein,wikidata,,Q47326,relation+way
+Stationsplein,wikidata,,Q47326,way
 Stationsstraat,wikidata,,Q47326,way
 Steendijk,wikidata,,Q22731,way
 Steenhouwerstraat,wikidata,,Q328325,way
@@ -325,6 +326,7 @@ Valkenweg,wikidata,,Q43489,way
 Vechtstraat,wikidata,,Q168904,way
 Veenhamel,wikidata,,Q1681353,way
 Veenkampen,wikidata,,Q2130210,way
+Velduil,wikidata,,Q25769,way
 Vennebroekstraat,wikidata,,Q2222532,way
 Venuskade,wikidata,,Q313,way
 Vesterotonde,wikidata,,Q92399305,way
@@ -552,7 +554,6 @@ Knollenkampen,,,,way
 Koldakker,,,,way
 Koningsmantel,,,,way
 Koopmansplein,,,,way
-"Kop van de Vaart",,,,relation
 Korenmaat,,,,way
 Korenmolen,,,,way
 Kortbossen,,,,way
@@ -617,7 +618,6 @@ Oosterhoutje,,,,way
 Oosterwal,,,,way
 "Op Stee",,,,way
 Oranjestraat,,,,way
-Oud-Spoorpad,,,,way
 "Oude Haarweg",,,,way
 "Oude Molenstraat",,,,way
 "Oude Poststraat",,,,way
@@ -700,7 +700,7 @@ Taarlosebrug,,,,way
 Taarloseweg,,,,way
 Tankgracht,,,,way
 Telglanden,,,,way
-Terreplein,,,,relation+way
+Terreplein,,,,way
 Tesingehof,,,,way
 Tichelkampen,,,,way
 Tiendlanden,,,,way
@@ -728,7 +728,6 @@ Veemarktstraat,,,,way
 Veemarktzicht,,,,way
 Veenbiezenpad,,,,way
 Veenwalweg,,,,way
-Velduil,,,,way
 Venestraat,,,,way
 Vennenpad,,,,way
 "Verzorgingsplaats Peelerveld",,,,way
