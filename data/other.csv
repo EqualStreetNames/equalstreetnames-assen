@@ -69,6 +69,7 @@ Ceresstraat,wikidata,,Q32102,way
 Cypreslaan,wikidata,,Q14169641,way
 Dahliastraat,wikidata,,Q130918,way
 Dassenslag,wikidata,,Q27066,way
+"De Haar",wikidata,,Q2451504,way
 "De Klenckestraat",wikidata,,Q2615740,way
 "De Vallei",wikidata,,Q2924361,way
 "De Wouden",wikidata,,Q2130210,way
@@ -129,9 +130,11 @@ Goudreinet,wikidata,,Q504565,way
 Gouwe,wikidata,,Q779803,way
 Graafschap,wikidata,,Q1541869,way
 Grasbeemd,wikidata,,Q643352,way
+Graswijk,wikidata,,Q5597631,way
 Griekenlandlaan,wikidata,,Q41,way
 Groningerstraat,wikidata,,Q749,way
 Gymnasiumstraat,wikidata,,Q2066691,way
+Haarlaan,wikidata,,Q2451504,way
 Haarweg,wikidata,,Q2451504,way
 Hakselaar,wikidata,,Q1900188,way
 Harkpad,wikidata,,Q200822,way
@@ -172,6 +175,9 @@ Jupiterstraat,wikidata,,Q319,way
 Juweelstoep,wikidata,,Q161439,way
 Kamilletuin,wikidata,,Q27618,way
 Kanaaldijk,wikidata,,Q1996464,way
+Kanaaldijkpad,wikidata,,Q1996464,way
+Kanaalrotonde,wikidata,,Q1996464,way
+"Kanaalweg West",wikidata,,Q1996464,way
 Kastanjelaan,wikidata,,Q129324,way
 Kennemerland,wikidata,,Q652480,way
 Kerkplein,wikidata,,Q1869717,way
@@ -302,10 +308,12 @@ Roerpad,wikidata,,Q152331,way
 Roggehullen,wikidata,,Q12099,way
 Rolderhoofdweg,wikidata,,Q2182709,way
 Rolderstraat,wikidata,,Q2182709,way
+Roldertorenlaan,wikidata,,Q2465563,way
 Romestraat,wikidata,,Q220,way
 "Rotonde De Haar",wikidata,,Q2451504,way
 "Rotonde Peelo",wikidata,,Q14066791,way
 "Rotonde Rhee",wikidata,,Q941917,way
+"Rotonde Rolderhoofdweg",wikidata,,Q2182709,way
 "Rotonde Ter Aard",wikidata,,Q1982169,way
 Rozemarijntuin,wikidata,,Q122679,way
 Rozenpad,wikidata,,Q102231,way
@@ -338,6 +346,8 @@ Steigermesschen,wikidata,,Q2240172,way
 Stelmakerstraat,wikidata,,Q833418,way
 Sternmesschen,wikidata,,Q875769,way
 Steurstraat,wikidata,,Q300955,way
+Stroomdriftpad,wikidata,,Q2451504,way
+Taarloseweg,wikidata,,Q675843,way
 Tamarindehout,wikidata,,Q105687375,way
 Tarwehullen,wikidata,,Q15645384,way
 Taurus,wikidata,,Q10570,way
@@ -363,6 +373,7 @@ Uranusstraat,wikidata,,Q324,way
 Valkenweg,wikidata,,Q43489,way
 "Van Vlissingenstraat",wikidata,,Q2743834,way
 Vechtstraat,wikidata,,Q168904,way
+Veemarktpad,wikidata,,Q8148,way
 Veenhamel,wikidata,,Q1681353,way
 Veenkampen,wikidata,,Q2130210,way
 Velduil,wikidata,,Q25769,way
@@ -423,17 +434,17 @@ Zwin,wikidata,,Q4477366,way
 "'t Roege Pad",,,,way
 "'t Stede",,,,way
 1,,,,way
+10,,,,way
+11,,,,way
+"11 decemberlaantje",,,,way
 2,,,,way
 3,,,,way
 4,,,,way
-11,,,,way
-"11 decemberlaantje",,,,way
 5,,,,way
 6,,,,way
 7,,,,way
 8,,,,way
 9,,,,way
-10,,,,way
 12,,,,way
 13,,,,way
 14,,,,way
@@ -475,13 +486,13 @@ Broeklaan,,,,way
 Brummelkampen,,,,way
 Buitenbree,,,,way
 Buitenes,,,,way
+"Busstation Marsdijk",,,,way
 Cantharel,,,,way
 Citadel,,,,way
 "De Boomgaard",,,,way
 "De Broeken",,,,way
 "De Doorsteek",,,,way
 "De Gaarde",,,,way
-"De Haar",,,,way
 "De Havixhorststraat",,,,way
 "De Hoogspanningsweg",,,,way
 "De Lariks",,,,way
@@ -527,7 +538,7 @@ Gildestraat,,,,way
 Goorlaan,,,,way
 Graanland,,,,way
 Graanlandpad,,,,way
-Graswijk,,,,way
+Graswijkrotonde,,,,way
 Gravenlanden,,,,way
 Grift,,,,way
 "Groene Dijk N.Z.",,,,way
@@ -535,7 +546,6 @@ Grift,,,,way
 Groenkampen,,,,way
 Groningerdwarsstraat,,,,way
 "Grote Hout",,,,way
-Haarlaan,,,,way
 Hamerslanden,,,,way
 Havenkanaalpad,,,,way
 Hazenoor,,,,way
@@ -562,7 +572,6 @@ Iemstukken,,,,way
 Kaarnheugte,,,,way
 Kambalahout,,,,way
 Kanaalstraat,,,,way
-"Kanaalweg West",,,,way
 Karmijn,,,,way
 Kazernelaan,,,,way
 Keerweer,,,,way
@@ -673,7 +682,6 @@ Riklanden,,,,way
 Rochtplein,,,,way
 "Rode Heklaan",,,,way
 Roegoorn,,,,way
-Roldertorenlaan,,,,way
 Rondgang,,,,way
 Rooipad,,,,way
 "Rotonde De Hoogspanning",,,,way
@@ -717,7 +725,6 @@ Strooier,,,,way
 Stroom,,,,way
 TT-tunnelweg,,,,way
 Taarlosebrug,,,,way
-Taarloseweg,,,,way
 Tankgracht,,,,way
 Telglanden,,,,way
 Terreplein,,,,relation+way
@@ -740,7 +747,6 @@ Uitkamp,,,,way
 Ulohof,,,,way
 Varenkampen,,,,way
 Veemarkt,,,,way
-Veemarktpad,,,,way
 Veemarktplein,,,,way
 Veemarktstraat,,,,way
 Veemarktzicht,,,,way
