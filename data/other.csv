@@ -191,6 +191,7 @@ Klaproosstraat,wikidata,,Q146391,way
 Klaverstraat,wikidata,,Q101538,way
 Klaverveld,wikidata,,Q101538,way
 Kleihamel,wikidata,,Q42302,way
+Kloosterstraat,wikidata,,Q28037766,way
 Kloosterveenrotonde,wikidata,,Q2772284,way
 Koekoekstraat,wikidata,,Q18845,way
 Koperslagerstraat,wikidata,,Q1551626,way
@@ -457,6 +458,7 @@ Amelterhout,,,,way
 Anreep,,,,way
 Aubussonpad,,,,way
 Baggelhuizen,,,,way
+Balkendwarsrotonde,,,,way
 Balkendwarsweg,,,,way
 Balkengracht,,,,way
 Balsahout,,,,way
@@ -542,8 +544,9 @@ Graanlandpad,,,,way
 Graswijkrotonde,,,,way
 Gravenlanden,,,,way
 Grift,,,,way
-"Groene Dijk N.Z.",,,,way
+"Groene Dijk Noordzijde",,,,way
 "Groene Dijk Z.Z.",,,,way
+"Groene Dijk Zuidzijde",,,,way
 Groenkampen,,,,way
 Groningerdwarsstraat,,,,way
 "Grote Hout",,,,way
@@ -596,7 +599,6 @@ Kloosterbrug,,,,way
 Kloosterdijk,,,,way
 Kloosterhout,,,,way
 Kloostersingel,,,,way
-Kloosterstraat,,,,way
 Kloosterveste,,,,way
 Kloosterweg,,,,way
 Knollenkampen,,,,way
