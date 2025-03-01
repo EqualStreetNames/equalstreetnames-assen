@@ -324,6 +324,7 @@ Sambrestraat,wikidata,,Q208267,way
 Sandelhout,wikidata,,Q11122366,way
 Saturnusstraat,wikidata,,Q193,way
 Scheldestraat,wikidata,,Q37620,way
+Schepersmaat,wikidata,,Q2034045,way
 Schieland,wikidata,,Q2303350,way
 Seinepad,wikidata,,Q1471,way
 Sleutelbloemstraat,wikidata,,Q158974,way
@@ -333,7 +334,7 @@ Snipmesschen,wikidata,,Q26626,way
 Spade,wikidata,,Q216642,way
 Spanjelaan,wikidata,,Q29,way
 Sparrenlaan,wikidata,,Q26782,way
-Speenkruidstraat,wikidata,,Q9390917,way
+Speenkruidstraat,wikidata,,Q9390917,relation+way
 Sperwerstraat,wikidata,,Q25380,way
 Spieringstraat,wikidata,,Q840795,way
 Spintgoorn,wikidata,,Q4346074,way
@@ -456,10 +457,11 @@ Achterweg,,,,way
 Alteveerstraat,,,,way
 Amelterhout,,,,way
 Anreep,,,,way
+"Asserweg 32",,,,way
 Aubussonpad,,,,way
 Baggelhuizen,,,,way
 Balkendwarsrotonde,,,,way
-Balkendwarsweg,,,,way
+Balkendwarsweg,,,,relation+way
 Balkengracht,,,,way
 Balsahout,,,,way
 Beek,,,,way
@@ -542,6 +544,9 @@ Gildestraat,,,,way
 Goorlaan,,,,way
 Graanland,,,,way
 Graanlandpad,,,,way
+"Graswijk 14",,,,way
+"Graswijk 22",,,,way
+"Graswijk 6",,,,way
 Graswijkrotonde,,,,way
 Gravenlanden,,,,way
 Grift,,,,way
@@ -596,7 +601,7 @@ Klinkespad,,,,way
 Kloekhorststraat,,,,way
 Kloekslaan,,,,way
 Klompmakerstraat,,,,way
-Kloosterbrug,,,,way
+Kloosterbrug,,,,relation+way
 Kloosterdijk,,,,way
 Kloosterhout,,,,way
 Kloostersingel,,,,way
@@ -698,7 +703,6 @@ Schanswal,,,,way
 Scharmbarg,,,,way
 Schatgoorn,,,,way
 Schepelgoorn,,,,way
-Schepersmaat,,,,way
 Schieven,,,,way
 Schoolstraat,,,,way
 Schultestraat,,,,way
@@ -728,6 +732,7 @@ Stoepveldsingel,,,,way
 Strengenpad,,,,way
 Strooier,,,,way
 Stroom,,,,way
+TT-Circuit,,,,way
 TT-tunnelweg,,,,way
 Taarlosebrug,,,,way
 Tankgracht,,,,way
@@ -770,6 +775,7 @@ Vlintdreef,,,,way
 Volmachtendreef,,,,way
 Voorstebree,,,,way
 Vossenlaan,,,,way
+"Vredeveldseweg 75",,,,way
 Vreebergen,,,,way
 Vreelanden,,,,way
 Walakker,,,,way
@@ -786,6 +792,7 @@ Wiemelheugte,,,,way
 Wijkbaan,,,,way
 Winkelakker,,,,way
 "Winkelcentrum Marsdijk",,,,way
+"Winkelcentrum Walakker",,,,way
 Witterbroek,,,,way
 Wittergoorn,,,,way
 Witterhaar,,,,way
@@ -798,6 +805,7 @@ Zaagmolen,,,,way
 Zaailand,,,,way
 Zendmastweg,,,,way
 Zichtheugte,,,,way
+Ziekenhuis,,,,way
 Zompdijk,,,,way
 Zoom,,,,way
 Zuidergracht,,,,way

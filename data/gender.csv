@@ -1,7 +1,7 @@
 name,source,gender,wikidata,type
 "Aletta Jacobsrotonde",wikidata,F,Q463478,way
 "Aletta Jacobsweg",wikidata,F,Q463478,way
-"Caro van Eyckrotonde",wikidata,F,Q2690875,way
+"Caro van Eyckrotonde",wikidata,F,Q2690875,relation+way
 "Caro van Eyckweg",wikidata,F,Q2690875,way
 "Carry van Bruggenweg",wikidata,F,Q447097,way
 "Content Hofstede",wikidata,F,Q106675757,way
@@ -95,7 +95,7 @@ Huygensstraat,wikidata,M,Q560746,way
 "J.C. van Markenstraat",wikidata,M,Q1595877,way
 "J.H.A. Schaperstraat",wikidata,M,Q2560153,way
 "Jaap Timmerbocht",wikidata,M,Q105885624,way
-"Jack Middelburgplein",wikidata,M,Q2497298,relation
+"Jack Middelburgplein",wikidata,M,Q2497298,way
 "Jacob Catslaan",wikidata,M,Q46151,way
 "Jacob Cramerplein",wikidata,M,Q2287624,way
 "Jan Bommerstraat",wikidata,M,Q14632469,way
@@ -189,7 +189,7 @@ Verdistraat,wikidata,M,Q7317,way
 Vivaldilaan,wikidata,M,Q1340,way
 Vondellaan,wikidata,M,Q312673,way
 "W.A. Scholtenrotonde",wikidata,M,Q2715240,way
-"W.A. Scholtenstraat",wikidata,M,Q2715240,way
+"W.A. Scholtenstraat",wikidata,M,Q2715240,relation+way
 Wagnerlaan,wikidata,M,Q1511,way
 Wenkebachstraat,wikidata,M,Q24068380,way
 "Wethouder Bergerweg",wikidata,M,Q88385584,way
