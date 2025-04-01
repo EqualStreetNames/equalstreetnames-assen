@@ -165,7 +165,7 @@ Hunsingostraat,wikidata,,Q499390,way
 Hunze,wikidata,,Q1310069,way
 IJselstraat,wikidata,,Q217818,way
 Iepenlaan,wikidata,,Q131113,way
-Industrieweg,wikidata,,Q8148,way
+Industrieweg,wikidata,,Q8148,relation+way
 Italiëlaan,wikidata,,Q38,way
 Jadestoep,wikidata,,Q175089,way
 Javastraat,wikidata,,Q3757,way
@@ -436,6 +436,8 @@ Zwin,wikidata,,Q4477366,way
 "'t Roege Pad",,,,way
 "'t Stede",,,,way
 1,,,,way
+10,,,,way
+11,,,,way
 "11 decemberlaantje",,,,way
 2,,,,way
 3,,,,way
@@ -445,8 +447,6 @@ Zwin,wikidata,,Q4477366,way
 7,,,,way
 8,,,,way
 9,,,,way
-10,,,,way
-11,,,,way
 12,,,,way
 13,,,,way
 14,,,,way
