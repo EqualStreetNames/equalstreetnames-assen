@@ -3,8 +3,6 @@ name,source,gender,wikidata,type
 "'t Roege Pad",,,,way
 "'t Stede",,,,way
 1,,,,way
-"11 decemberlaantje",,,,way
-2,,,,way
 3,,,,way
 4,,,,way
 5,,,,way
@@ -14,6 +12,8 @@ name,source,gender,wikidata,type
 9,,,,way
 10,,,,way
 11,,,,way
+"11 decemberlaantje",,,,way
+2,,,,way
 12,,,,way
 13,,,,way
 14,,,,way
@@ -116,7 +116,6 @@ Graanland,,,,way
 Graanlandpad,,,,way
 "Graswijk 14",,,,way
 "Graswijk 22",,,,way
-"Graswijk 6",,,,way
 Graswijkrotonde,,,,way
 Gravenlanden,,,,way
 Grift,,,,way
@@ -163,6 +162,7 @@ Kiellanden,,,,way
 Kiepheugte,,,,way
 Kilver,,,,way
 Kilverpad,,,,way
+"Kinderboerderij Marsdijk",,,,way
 "Kleine Espad",,,,way
 "Kleine Hout",,,,way
 "Kleine Marktstraat",,,,way
