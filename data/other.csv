@@ -3,6 +3,8 @@ name,source,gender,wikidata,type
 "'t Roege Pad",,,,way
 "'t Stede",,,,way
 1,,,,way
+"11 decemberlaantje",,,,way
+2,,,,way
 3,,,,way
 4,,,,way
 5,,,,way
@@ -12,8 +14,6 @@ name,source,gender,wikidata,type
 9,,,,way
 10,,,,way
 11,,,,way
-"11 decemberlaantje",,,,way
-2,,,,way
 12,,,,way
 13,,,,way
 14,,,,way
@@ -51,6 +51,7 @@ Boskamp,,,,way
 Bosstraat,,,,way
 Bovist,,,,way
 Brandlaan,,,,way
+Brandweerkazerne,,,,way
 Brikheugte,,,,way
 Brink,,,,way
 Brinkstraat,,,,way
@@ -90,6 +91,7 @@ Dwarsbree,,,,way
 Echtenstraat,,,,way
 Eekmolen,,,,way
 Eenboomslaan,,,,way
+"Eerste Pelinck rotonde",,,,way
 Eggepad,,,,way
 Ekkelwal,,,,way
 Elandlaan,,,,way
@@ -322,6 +324,7 @@ Traverse,,,,way
 Truffel,,,,way
 Tussenbree,,,,way
 Twaalfsuurlaan,,,,way
+"Tweede Pelinck rotonde",,,,way
 Tweesporenweg,,,,way
 Twiegenpad,,,,way
 Twijfelveldspad,,,,way
@@ -363,6 +366,7 @@ Westerlaan,,,,way
 Westerwal,,,,way
 Wiemelheugte,,,,way
 Wijkbaan,,,,way
+"Wilhelmina Pelinckweg",,,,way
 Winkelakker,,,,way
 "Winkelcentrum Marsdijk",,,,way
 "Winkelcentrum Walakker",,,,way
